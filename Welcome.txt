@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 print("Welcome;")
 print("Hi!;")
+print("Hello my dear friend;")
+print("zdorovo;")
